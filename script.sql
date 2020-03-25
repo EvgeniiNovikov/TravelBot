@@ -1,5 +1,4 @@
 create database cities;
-drop table if exists city;
 create table city (id bigint not null auto_increment,
                     description varchar(255), name varchar(255),
                     sub_name varchar(255),
