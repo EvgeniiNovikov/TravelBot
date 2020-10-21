@@ -5,5 +5,4 @@
 Также дублирую имя и токен бота тут:
                                     name: Test_Travel_V1Bot 
                                     token: 1124131832:AAEBHJ6hs4ESgzEeO6N7y_HOwHlPG7l9ZUY
-                                    
-Важно: ловлю ошибку Error remove old webhook, пока не пофиксил. Но у меня все запускается и работает, и бот, и web;
+                                   
